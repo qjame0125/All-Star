@@ -1,5 +1,5 @@
 # All-Star
-week1 in class assignment
+#week1 in class assignment
 mkdir assigment_folder
 cd assigment_folder
 touch secret.txt
