@@ -1,4 +1,4 @@
-# All-Star
+#!/bin/bash 
 #week1 in class assignment
 mkdir assigment_folder
 cd assigment_folder
