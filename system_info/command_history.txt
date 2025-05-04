@@ -1,0 +1,12 @@
+   38  cat os_details.txt info.txt
+   39  uname -a info.txt
+   40  uname -a
+   41  -a info.txt
+   42  uname -a/info.txt
+   43  uname info.txt -a
+   44  df -h info.txt
+   45  chmod info.txt 
+   46  chom info.txt 600
+   47  chmod info.txt 600
+   48  chmod 600 info.txt 
+   49  history | tail -n 12 > command_history.txt
